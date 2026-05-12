@@ -1,7 +1,7 @@
 # Othello (Reversi) – CSE 4301 Project
 
-This project is a Python implementation of the classic **Othello (Reversi)** board game using **Pygame**.  
-It supports both **human vs. human** and **human vs. AI** gameplay. The AI is implemented with the **minimax algorithm** and **alpha-beta pruning** to efficiently choose moves.
+This project is a Python implementation of the classic **Othello (Reversi)** board game using Pygame created in Sep 2025 for "Intro to Artificial Intelligence".
+It supports both "human vs. human" and "human vs. AI" gameplay. The AI is implemented with the minimax algorithm and alpha-beta pruning to efficiently choose moves.
 
 ## 🎮 Features
 - Interactive 8×8 Othello board
